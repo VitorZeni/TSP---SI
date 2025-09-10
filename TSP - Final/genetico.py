@@ -243,7 +243,7 @@ def main():
     print(f"Melhor caminho encontrado: {melhor_cam}")
     print(f"Distância: {melhor_dist}")
 
-   #CV FAZ O L
+   #CV
 
     # coords das cidades (ex: [(x1,y1), (x2,y2), ...])
     coords = []

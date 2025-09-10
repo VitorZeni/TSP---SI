@@ -115,7 +115,7 @@ def main():
     print(soma_atual)
 
     
-    #CV FAZ O L
+    #CV
 
     # coords das cidades (ex: [(x1,y1), (x2,y2), ...])
     coords = []
